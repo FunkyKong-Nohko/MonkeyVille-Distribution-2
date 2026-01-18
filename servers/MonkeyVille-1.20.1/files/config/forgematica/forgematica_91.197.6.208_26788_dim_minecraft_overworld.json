@@ -1,0 +1,214 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\natha\\curseforge\\minecraft\\Instances\\Valhelsia 6\\schematics\\baratie.schem",
+        "name": "baratie (Converted Structure)",
+        "origin": [
+          663,
+          63,
+          708
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "LEFT_RIGHT",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": true,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "baratie (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "baratie (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\natha\\curseforge\\minecraft\\Instances\\Valhelsia 6\\schematics\\baratie.schem",
+        "name": "baratie (Converted Structure)",
+        "origin": [
+          652,
+          76,
+          751
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "baratie (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "baratie (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\natha\\curseforge\\minecraft\\Instances\\Valhelsia 6\\schematics\\RIBBIT-HOUSE1.litematic",
+        "name": "RIBBIT-HOUSE1",
+        "origin": [
+          801,
+          111,
+          530
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "RIBBIT-HOUSE1",
+            "placement": {
+              "pos": [
+                11,
+                0,
+                11
+              ],
+              "name": "RIBBIT-HOUSE1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\natha\\curseforge\\minecraft\\Instances\\Valhelsia 6\\schematics\\mini_bridge.schem",
+        "name": "mini_bridge (Converted Structure)",
+        "origin": [
+          900,
+          61,
+          482
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "mini_bridge (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "mini_bridge (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 3,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "RIBBIT-HOUSE1",
+    "current": "RIBBIT-HOUSE1",
+    "boxes": [
+      {
+        "pos1": [
+          800,
+          59,
+          362
+        ],
+        "pos2": [
+          818,
+          125,
+          379
+        ],
+        "name": "RIBBIT-HOUSE1"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

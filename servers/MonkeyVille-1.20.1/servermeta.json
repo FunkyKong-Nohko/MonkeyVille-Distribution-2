@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "MonkeyVille (Minecraft 1.20.1)",
+    "description": "MonkeyVille Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "91.197.6.208:26788",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
